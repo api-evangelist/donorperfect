@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DonorPerfect is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://donorperfect.com/
+DonorPerfect provides fundraising software and a public XML API for nonprofit donor management. The platform offers tools for donation forms, event management, donor CRM, marketing, analytics, and integrations, helping organizations streamline fundraising operations and improve donor engagement.
+
+**Areas:** Company · Fundraising · Nonprofit · CRM · API · Software
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://donorperfect.com/)
+- [Getting started](https://www.donorperfect.com:443/client-services/system-implementation/)
+- [Pricing](https://www.donorperfect.com:443/fundraising-software/pricing-guide/)
+- [Sign up](https://www.donorperfect.com/integrations/volunteer-management/signup/)
+- [Changelog](https://www.donorperfect.com:443/clients/release-notes/)
+- [Blog](https://www.donorperfect.com/blog/vote-for-the-winner-of-the-donorperfect-community-impact-award/)
+- [Terms of service](https://www.donorperfect.com:443/company/terms-of-service/)
+- [Privacy policy](https://www.donorperfect.com:443/company/privacy-policy/)
+- [Status](https://status.donorperfect.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/donorperfect/](https://apis.io/providers/donorperfect/).
